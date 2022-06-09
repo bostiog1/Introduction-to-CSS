@@ -1,0 +1,18 @@
+*{
+    color: white;
+}
+body {
+    background-color: #e2e270;
+    background-image:url("https://i.pinimg.com/736x/9d/37/d2/9d37d269e9b346598bd4b6a5fad0d4bc.jpg");
+}
+p {
+    font-size: 1.5em;
+    border-style: solid;
+    border-color: black;
+    border-width: 2mm;
+    width: 200px;
+}
+
+div{
+    width: 50%;
+}
