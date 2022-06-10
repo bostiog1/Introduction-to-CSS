@@ -7,13 +7,15 @@ body{
     background-color: #cccccc;
 }
 ul{
-    list-style: none;
+    list-style-type: none;
 }
 
 ul li{
-    background-color: #cccc99;
+    display:inline;
+    width: 150px;
+    text-align:center;
     margin:5px;
     padding: 3px 0 0 10px;
-    border-bottom: 3px solid black;
-    border-left: 10px solid #cc3333;
+    background-color: #cccc99;
+   
 }
