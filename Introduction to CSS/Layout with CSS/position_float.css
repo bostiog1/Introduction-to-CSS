@@ -1,0 +1,33 @@
+#buttons{
+    margin:100px 0 100px 0;
+}
+
+#buttons input{
+    width: 120px;
+}
+
+#buttons input:last-child
+{
+    position: fixed;
+    top: 20px;
+    left: 100px;
+}
+
+#author{
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background-color: yellow;
+    width: 300px;
+}
+
+.temp{
+    position: relative;
+    top: 50px;
+    left: -20px;
+}
+#figure1{
+    float: right;
+    margin-right: 5px;
+    margin-left: 5px;
+}
